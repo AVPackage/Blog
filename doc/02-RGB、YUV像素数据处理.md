@@ -55,5 +55,5 @@ int simplest_yuv420_split(const char *url, int w, int h, int frame)
 学习内容：https://blog.csdn.net/leixiaohua1020/article/details/50534150
 
 1. [YUV 格式详解，只看这一篇就够了](https://www.jianshu.com/p/538ee63f4c1c)
-1. [YUV格式简介、YUV444、YUV422、YUV420](https://blog.csdn.net/yu540135101/article/details/107121769)
-2. [图文详解YUV420 数据格式](https://markrepo.github.io/avcodec/2018/06/28/YUV/)
+2. [YUV格式简介、YUV444、YUV422、YUV420](https://blog.csdn.net/yu540135101/article/details/107121769)
+3. [图文详解YUV420 数据格式](https://markrepo.github.io/avcodec/2018/06/28/YUV/)
